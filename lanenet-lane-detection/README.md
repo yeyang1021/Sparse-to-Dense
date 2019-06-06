@@ -1,9 +1,13 @@
 
 This is a repo [sparse to dense (Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera)] modified by [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 
+
+## The network
+
+
 The trained model achieves similar results in KITTI dataset
 
-
+## Test model
 You can test a single image on the trained model as follows
 
 ```
