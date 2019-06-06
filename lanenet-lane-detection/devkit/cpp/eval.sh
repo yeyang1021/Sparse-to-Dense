@@ -1,0 +1,1 @@
+./evaluate_depth /data3/yang_ye/depth_selection/val_selection_cropped/groundtruth_depth/ /home2/yang_ye/dense_depth/lanenet-lane-detection/output1/
