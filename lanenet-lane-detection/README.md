@@ -8,14 +8,18 @@ This is a repo [sparse to dense (Self-supervised Sparse-to-Dense: Self-supervise
 The trained model achieves similar results in KITTI dataset
 
 ## Test model
-You can test a single image on the trained model as follows
+You can test a single/batch image/s on the trained model as follows
 
 ```
-python tools/my1test_debse.py --is_batch False --batch_size 1 
+python tools/my1test_dense.py --is_batch False --batch_size 1 
 --weights_path model/***.ckpt-94000 
---image_path data/***/0.jpg
+--image_path data/***/
 ```
+or 
 
+```
+test_batch.sh
+```
 
 #### Train model
 You may call the following script to train your own model
