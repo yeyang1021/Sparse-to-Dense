@@ -3,7 +3,7 @@ This is a repo [sparse to dense (Self-supervised Sparse-to-Dense: Self-supervise
 
 
 ## The network
-
+![可视化效果图](https://github.com/yeyang1021/Sparse-to-Dense/blob/master/lanenet-lane-detection/network.png)
 
 The trained model achieves similar results in KITTI dataset
 
